@@ -1,4 +1,4 @@
-﻿# Grilo - A Gitops Opinionated Framework
+﻿# ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) Grilo - A Gitops Opinionated Framework
 
 ## Overview
 
